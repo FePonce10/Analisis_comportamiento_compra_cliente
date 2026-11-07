@@ -144,4 +144,4 @@ Este proyecto analiza **3,900 transacciones** de clientes de un negocio minorist
 
 **Fredy Jahir Ponce Llactahuaman**
 Estudiante de Economía | Data & Analytics
-🔗 [LinkedIn]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/fredy-jahir-ponce-llactahuaman-34733b274/)) · 💻 [GitHub](https://github.com/tu-usuario)
+🔗 [LinkedIn]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/fredy-jahir-ponce-llactahuaman-34733b274/)) · 💻 [GitHub]([https://github.com/tu-usuario](https://github.com/FePonce10/An-lisis-_comportamiento_cliente/tree/main))
